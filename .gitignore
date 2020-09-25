@@ -1,0 +1,11 @@
+Aplication/bin/*
+Aplication/obj/*
+
+Data/bin/*
+Data/obj/*
+
+Domain/bin/*
+Domain/obj/*
+
+.vscode
+.DS_Store
